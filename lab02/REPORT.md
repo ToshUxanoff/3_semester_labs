@@ -21,11 +21,11 @@ $ npm install -g gistup 	#работа с пакетным менежджеро�
 ```
 
 ```bash
-$ cat > ~/.gistup.json <<EOF 	#просмотр файла
+$ cat > ~/.gistup.json <<EOF
 {
   "token": "${GIST_TOKEN}"
 }
-EOF
+EOF #заполнение .gistup.json
 ```
 
 ```bash
